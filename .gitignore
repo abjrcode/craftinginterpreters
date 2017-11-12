@@ -16,3 +16,10 @@ temp.lox
 
 # XCode user-specific stuff.
 xcuserdata/
+
+# JetBrains IntellijIDEA configuration
+/rust/.idea
+/rust/rust.iml
+# Build output from rustc, will be copied to /build of project
+/rust/target
+

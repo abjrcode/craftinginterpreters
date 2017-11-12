@@ -1,0 +1,13 @@
+[package]
+name = "rlux"
+version = "0.1.0"
+authors = ["Ibrahim Najjar <ABnajjar@hotmail.com>"]
+
+[[bin]]
+name = "rlux"
+
+path = "src/rlux.rs"
+
+test = true
+
+[dependencies]
